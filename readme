@@ -1,0 +1,38 @@
+AI Ethics Assignment – Designing Responsible and Fair AI Systems 🌍⚖️
+Overview
+
+This project focuses on creating and auditing ethical AI systems, detecting and mitigating bias, and promoting responsible deployment.
+
+Parts & Deliverables
+
+Part 1: Theoretical Understanding (30%)
+
+Defined algorithmic bias with examples.
+
+Explained transparency vs explainability.
+
+GDPR impact on AI in the EU.
+
+Matched ethical principles: Justice, Non-maleficence, Autonomy, Sustainability.
+Deliverable: PDF
+
+Part 2: Case Study Analysis (40%)
+
+Biased Hiring Tool: Identified bias, proposed fixes, suggested fairness metrics.
+
+Facial Recognition in Policing: Discussed ethical risks, recommended responsible policies.
+Deliverable: PDF
+
+Part 3: Practical Fairness Audit (25%)
+
+Dataset: COMPAS recidivism
+
+Tools: Python, Pandas, Matplotlib, AI Fairness 360
+
+Steps: Cleaned data, binarized labels, mapped race, applied Reweighing, computed fairness metrics, visualized results.
+Deliverable: Jupyter Notebook / Python script
+
+Part 4: Ethical Reflection (5%)
+
+Personal project reflection: fairness, transparency, privacy, monitoring, and human oversight.
+Deliverable: Short PDF section
